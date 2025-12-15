@@ -2,7 +2,7 @@
 
 ## 🚀 Professional Profile
 
-I am Cristina González Fernández, a Mathematics student with an intensive specialization in **Data Analysis**. My profile is characterized by a solid analytical foundation, advanced programming skills, and a strong motivation to transform complex datasets into strategic solutions. I am actively seeking my first professional opportunity where I can apply my knowledge in challenging and innovative environments.
+I am a Mathematics student with an specialization in **Data Analysis**. My profile is characterized by a solid analytical foundation, advanced programming skills, and a strong motivation to transform complex datasets into strategic solutions. I am actively seeking my first professional opportunity where I can apply my knowledge in challenging and innovative environments.
 
 * **Focus:** My core interest lies in applying mathematical rigor to predictive modeling, value extraction, and data-driven process optimization.
 * **Key Skills:** **Python** · **SQL** · **Inferential Statistics** · **Predictive Modeling** · **Power BI**.
@@ -12,18 +12,16 @@ I am Cristina González Fernández, a Mathematics student with an intensive spec
 
 ## 🛠️ Detailed Technical Stack
 
-Mastery of essential tools for the complete data analysis lifecycle, from data extraction and cleaning to visualization and reporting.
-
-### 1. Programming and Machine Learning
+### Programming and Machine Learning
 
 | Language | Proficiency | Application and Libraries |
 | :--- | :--- | :--- |
-| **Python** | Certified | Analysis, manipulation, and Machine Learning. Libraries include **Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn**. |
+| **Python** | Certified | Analysis, manipulation, and Machine Learning. |
 | **SQL** | Certified | Advanced management of relational databases for efficient data extraction and querying. |
 | **R Studio** | Advanced | Statistical modeling, Exploratory Data Analysis (EDA), and Inferential Statistics. |
 | **Matlab** | Advanced | Applications in numerical computation and mathematical simulations. |
 
-### 2. Databases and Visualization
+### Databases and Visualization
 
 * **Power BI:** Creation of interactive dashboards, executive reports, and Key Performance Indicators (KPIs) for informed decision-making.
 * **Excel:** Advanced data cleaning, analysis, and reporting.
@@ -78,11 +76,6 @@ My academic training is complemented by leadership and communication skills esse
 * **Communication:** Assertive communication and strong report writing skills.
 * **Adaptability:** Highly responsible, dedicated, and a fast-learning individual.
 * **Qualities:** Creative and spontaneous, Proactive.
-
-### Relevant Experience
-
-* **Asturias Debate Club (2025 - Present):** Role reinforcing critical thinking and the articulation of complex arguments.
-* **Avilés Music Band (2018 - Present):** Held roles as Musician, Section Head, and **Community Manager** (Instagram and YouTube), demonstrating digital content management and leadership.
 
 ### Languages
 
