@@ -59,7 +59,7 @@ This portfolio showcases my ability to deliver comprehensive analyses that gener
 * **Demonstrated Skills:** 
 * **Status:** [In Progress / Completed - Link to Repository]
 
-### Project 3: A/B Testing Analysis on Mobile Gaming Features
+### Project 3: 
 
 * **Objective:** 
 * **Demonstrated Skills:** 
