@@ -16,12 +16,12 @@ Mastery of essential tools for the complete data analysis lifecycle, from data e
 
 ### 1. Programming and Machine Learning
 
-| Language / Tool | Proficiency | Application and Libraries |
+| Language | Proficiency | Application and Libraries |
 | :--- | :--- | :--- |
 | **Python** | Certified | Analysis, manipulation, and Machine Learning. Libraries include **Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn**. |
 | **SQL** | Certified | Advanced management of relational databases for efficient data extraction and querying. |
-| **R Studio** | Intermediate | Statistical modeling, Exploratory Data Analysis (EDA), and Inferential Statistics. |
-| **Matlab** | Basic/Intermediate | Applications in numerical computation and mathematical simulations. |
+| **R Studio** | Advanced | Statistical modeling, Exploratory Data Analysis (EDA), and Inferential Statistics. |
+| **Matlab** | Advanced | Applications in numerical computation and mathematical simulations. |
 
 ### 2. Databases and Visualization
 
@@ -37,11 +37,11 @@ Mastery of essential tools for the complete data analysis lifecycle, from data e
 * **Studies:** Mathematics Degree.
 * **Key Specialization:** **Data Analysis**.
 * **Final Degree Project (PFG):** Research on the application of **advanced mathematical methods to optimize neural network training**.
+* **Additional Course:** **Post-Quantum Cryptography Course** (Summer 2024), focusing on advanced cryptography and cybersecurity.
 
 ### International Exchange and Further Training
 
 * **Erasmus Program (2024-2025):** University of Crete, Greece.
-* **Additional Course:** **Post-Quantum Cryptography Course** (Summer 2024), focusing on advanced cryptography and cybersecurity.
 
 ---
 
@@ -49,22 +49,22 @@ Mastery of essential tools for the complete data analysis lifecycle, from data e
 
 This portfolio showcases my ability to deliver comprehensive analyses that generate **actionable insights**. Each project demonstrates the full Data Science lifecycle: Data Wrangling ➡️ Modeling ➡️ Visualization ➡️ Conclusions.
 
-### Project 1: E-Commerce Customer Segmentation using RFM and Clustering
+### Project 1: 
 
-* **Objective:** To segment an e-commerce customer base to identify high-value, medium-value, and at-risk customers for targeted marketing campaigns.
-* **Demonstrated Skills:** Advanced **SQL** for calculating Recency, Frequency, and Monetary (RFM) values; **Python (Scikit-learn)** for K-means clustering; **Power BI** for visualizing customer segments and creating a target dashboard.
+* **Objective:** 
+* **Demonstrated Skills:**
 * **Status:** [In Progress / Completed - Link to Repository]
 
-### Project 2: Predictive Housing Price Regression Model
+### Project 2:
 
-* **Objective:** To build and evaluate a regression model capable of predicting housing prices based on features like location, size, and number of rooms.
-* **Demonstrated Skills:** Python (Scikit-learn, Pandas), Feature Engineering (handling categorical and numerical data), Model Evaluation (RMSE, R-squared), Data Cleaning.
+* **Objective:** 
+* **Demonstrated Skills:** 
 * **Status:** [In Progress / Completed - Link to Repository]
 
 ### Project 3: A/B Testing Analysis on Mobile Gaming Features
 
-* **Objective:** To determine the statistical significance of relocating a feature (e.g., a "paywall" or "level-up" gate) in a mobile game and recommend the optimal version (A or B) for deployment.
-* **Demonstrated Skills:** Inferential Statistics (Hypothesis Testing), Critical Business Thinking, R Studio/Python for statistical analysis.
+* **Objective:** 
+* **Demonstrated Skills:** 
 * **Status:** [In Progress / Completed - Link to Repository]
 
 ---
