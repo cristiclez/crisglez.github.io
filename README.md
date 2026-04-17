@@ -45,7 +45,7 @@ I am a Mathematics student with an specialization in **Data Analysis**. My profi
 
 ## 📊 Data Science Project Portfolio
 
-This portfolio showcases my ability to deliver comprehensive analyses that generate **actionable insights**. Each project demonstrates the full Data Science lifecycle: Data Wrangling ➡️ Modeling ➡️ Visualization ➡️ Conclusions.
+This portfolio showcases my ability to deliver comprehensive analyses that generate **actionable insights**. 
 
 ### Project 1: 
 
