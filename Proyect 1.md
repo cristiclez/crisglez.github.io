@@ -15,7 +15,7 @@ The model was originally developed to forecast IT support ticket volumes as a fu
 ## Pipeline Architecture
 
 ```
-Data Source (CSV / SQL / API)
+Data Source 
         │
         ▼
 ┌─────────────────────────┐
@@ -82,7 +82,7 @@ From all available candidate variables, the model automatically selects the **to
 | **G7** | Infrastructure inventory normalized (single axis) |
 | **G8** | Full model diagnostics: residuals, Q-Q, ACF/PACF, metrics card |
 
-The **G8 metrics card** evaluates: R², MAE, RMSE, MAPE, AIC, Ljung-Box (autocorrelation), Jarque-Bera (normality), and ADF (stationarity), with traffic-light indicators (✅ / ⚠️) against standard thresholds.
+The **G8 metrics card** evaluates: R², MAE, RMSE, MAPE, AIC, Ljung-Box, Jarque-Bera, and ADF with traffic-light indicators (✅ / ⚠️) against standard thresholds.
 
 ---
 
