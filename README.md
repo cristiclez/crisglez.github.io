@@ -5,7 +5,7 @@
 I am a Mathematics student with an specialization in **Data Analysis**. My profile is characterized by a solid analytical foundation, advanced programming skills, and a strong motivation to transform complex datasets into strategic solutions. I am actively seeking my first professional opportunity where I can apply my knowledge in challenging and innovative environments.
 
 * **Focus:** My core interest lies in applying mathematical rigor to predictive modeling, value extraction, and data-driven process optimization.
-* **Key Skills:** **Python** · **SQL** · **Inferential Statistics** · **Predictive Modeling** · **Power BI**.
+* **Key Skills:** **Python** · **SQL** · **Inferential Statistics** · **Predictive Modeling** · **Power BI** · **Excel** .
 * **Openness:** Highly responsible, dedicated, and a fast-learning individual. I am fully open to opportunities requiring international travel or relocation.
 
 ---
