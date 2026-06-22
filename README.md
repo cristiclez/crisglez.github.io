@@ -33,7 +33,7 @@ I am a Mathematics student with an specialization in **Data Analysis**. My profi
 ### University of Oviedo & Data Analysis Specialization (2021-2026)
 
 * **Studies:** Mathematics Degree.
-* **Key Specialization:** **Data Analysis**.
+* **Key Specialization:** **Data Analysis and Data Science**.
 * **Final Degree Project (PFG):** Research on the application of **advanced mathematical methods to optimize neural network training**.
 * **Additional Course:** **Post-Quantum Cryptography Course** (Summer 2024), focusing on advanced cryptography and cybersecurity.
 
