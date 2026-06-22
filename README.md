@@ -48,13 +48,13 @@ I am a Mathematics student with an specialization in **Data Analysis**. My profi
 This portfolio showcases my ability to deliver comprehensive analyses that generate **actionable insights**. 
 
 ### Project 1: Time Series Forecasting Pipeline (SARIMAX Model)
-* [cite_start]**Objective:** Designed and implemented advanced time series forecasting pipelines to project corporate incident volumes based on historical operational data. [cite_start]Performed correlation analysis between ticket growth and infrastructure metrics to mitigate operational bottlenecks and optimize SLA response ratios.
-* [cite_start]**Demonstrated Skills:** Python, SQL, Statistical Projections, Trend Analysis, SLA Resource Optimization.
-* [cite_start]**Status:** [Completed - View Repository Folder](./) *(Developed during data analyst internship at ASAC)*
+* **Objective:** Designed and implemented advanced time series forecasting pipelines to project corporate incident volumes based on historical operational data. ]Performed correlation analysis between ticket growth and infrastructure metrics to mitigate operational bottlenecks and optimize SLA response ratios.
+* **Demonstrated Skills:** Python, SQL, Statistical Projections, Trend Analysis, SLA Resource Optimization.
+* **Status:** [Completed - View Repository Folder](./) *(Developed during data analyst internship at ASAC)*
 
 ### Project 2: EventFlow Tracker: Financial Reconciliation Ledger (Graduación)
-* [cite_start]**Objective:** Built a robust, deterministic financial tracker to orchestrate logistics and cash flows for large institutional group events. [cite_start]Handled near €10,000 in fractional cash inflows, multi-tier pricing structures, and real-time transport capacity constraints with an automated KPI dashboard.
-* [cite_start]**Demonstrated Skills:** Data Architecture, Input Sanitization (Data Validation lists), Decoupled Global Variables (Absolute Cell References), Financial Reconciliation.
+* **Objective:** Built a robust, deterministic financial tracker to orchestrate logistics and cash flows for large institutional group events. [cite_start]Handled near €10,000 in fractional cash inflows, multi-tier pricing structures, and real-time transport capacity constraints with an automated KPI dashboard.
+* **Demonstrated Skills:** Data Architecture, Input Sanitization (Data Validation lists), Decoupled Global Variables (Absolute Cell References), Financial Reconciliation.
 * **Status:** [Completed - View Repository Folder](./Graduacion)
 
 ---
