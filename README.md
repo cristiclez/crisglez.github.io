@@ -16,7 +16,7 @@ I am a Mathematics student with an specialization in **Data Analysis**. My profi
 
 | Language | Proficiency | Application and Libraries |
 | :--- | :--- | :--- |
-| **Python** | Certified | Analysis, manipulation, and Machine Learning. |
+| **Python** | Certified | Analysis, manipulation, Machine Learning and Deep Learning optimization (Algorithmic implementation of Stochastic Gradient Descent and loss function convergence for Neural Networks).|
 | **SQL** | Certified | Advanced management of relational databases for efficient data extraction and querying. |
 | **R Studio** | Advanced | Statistical modeling, Exploratory Data Analysis (EDA), and Inferential Statistics. |
 | **Matlab** | Advanced | Applications in numerical computation and mathematical simulations. |
